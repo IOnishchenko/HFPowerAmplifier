@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=lpf-swr-srtucture.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=lpf-swr-srtucture.SchDoc|Designator=control-interface|SchDesignator=control-interface|FileName=control-interface.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=control-interface.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=lpf-swr-srtucture.SchDoc|Designator=LPF|SchDesignator=LPF|FileName=lpf.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=lpf.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=lpf-swr-srtucture.SchDoc|Designator=swr-antenna|SchDesignator=swr-antenna|FileName=swr-antenna.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=swr-antenna.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

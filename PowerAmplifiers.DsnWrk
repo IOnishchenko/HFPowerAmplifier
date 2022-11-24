@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=PA-15-30W\PA-15-30W.PrjPcb
+[Project2]
+ProjectPath=LPF-SWR\LPF-SWR.PrjPcb
